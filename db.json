@@ -6,7 +6,7 @@
       "description": "Les dentiers de HappyFull raviront la plupart des enfants gourmands grâce à leur goût succulent, leur texture moelleuse et leur forme effrayante.",
       "quantity": 0,
       "price": 1.24,
-      "img": "../assets/images/vamp.jpg",
+      "img": "vamp.jpg",
       "buy": 0
     },
     {
@@ -15,7 +15,7 @@
       "description": "Des bonbons en forme de cœurs bicolores, tendres avec un enrobage sucré et un goût intense de fruits qui ne vous laissera pas indifférent.",
       "quantity": 0,
       "price": 1.24,
-      "img": "../assets/images/hearts.jpg",
+      "img": "hearts.jpg",
       "buy": 0
     },
     {
@@ -24,7 +24,7 @@
       "description": "Délicieux petits bonbons gélifiés sucrés en forme de crocodiles multicolores au goût inimitable et au ventre blanc tout doux.",
       "quantity": 0,
       "price": 1.24,
-      "img": "../assets/images/croco.jpg",
+      "img": "croco.jpg",
       "buy": 0
     },
     {
@@ -33,7 +33,7 @@
       "description": "Vous allez vous régaler avec un sachet plein de bonbons gélifiés de couleur jaune et blanche et en forme d’œuf au plat.",
       "quantity": 0,
       "price": 1.24,
-      "img": "../assets/images/eggs.jpg",
+      "img": "eggs.jpg",
       "buy": 0
     },
     {
@@ -42,7 +42,7 @@
       "description": "Bonbons gélifiés en forme de fruits pour le plaisir des plus petits comme des plus grands.",
       "quantity": 0,
       "price": 1.24,
-      "img": "../assets/images/fruits.jpg",
+      "img": "fruits.jpg",
       "buy": 0
     },
     {
@@ -51,7 +51,7 @@
       "description": "Une sélection de bonbons lego aux couleurs diverses dans un même sachet pour tous les âges et tous les goûts.",
       "quantity": 0,
       "price": 1.24,
-      "img": "../assets/images/cubes.jpg",
+      "img": "cubes.jpg",
       "buy": 0
     },
     {
@@ -69,7 +69,7 @@
       "description": "Bonbons gélifiés en forme d’araignées multicolores rassemblés dans un sachet de 70g et qui attendent simplement d’être dévorés sans modération.",
       "quantity": 0,
       "price": 1.24,
-      "img": "../assets/images/spiders.jpg",
+      "img": "spiders.jpg",
       "buy": 0
     },
     {
@@ -78,7 +78,7 @@
       "description": "Retrouvez le vrai délice avec ces savoureux bonbons gélifiés en forme d’anneaux.",
       "quantity": 0,
       "price": 1.24,
-      "img": "../assets/images/rings.jpg",
+      "img": "rings.jpg",
       "buy": 0
     }
   ],
