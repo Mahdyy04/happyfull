@@ -1,0 +1,86 @@
+{
+  "shops": [
+    {
+      "id": "1",
+      "name": "HAPPYFULL VAMP",
+      "description": "Les dentiers de HappyFull raviront la plupart des enfants gourmands grâce à leur goût succulent, leur texture moelleuse et leur forme effrayante.",
+      "quantity": 0,
+      "price": 1.24,
+      "img": "../assets/images/vamp.jpg",
+      "buy": 0
+    },
+    {
+      "id": "2",
+      "name": "HAPPYFULL HEARTS",
+      "description": "Des bonbons en forme de cœurs bicolores, tendres avec un enrobage sucré et un goût intense de fruits qui ne vous laissera pas indifférent.",
+      "quantity": 0,
+      "price": 1.24,
+      "img": "../assets/images/hearts.jpg",
+      "buy": 0
+    },
+    {
+      "id": "3",
+      "name": "HAPPYFULL CROCO",
+      "description": "Délicieux petits bonbons gélifiés sucrés en forme de crocodiles multicolores au goût inimitable et au ventre blanc tout doux.",
+      "quantity": 0,
+      "price": 1.24,
+      "img": "../assets/images/croco.jpg",
+      "buy": 0
+    },
+    {
+      "id": "4",
+      "name": "HAPPYFULL EGGZZZ",
+      "description": "Vous allez vous régaler avec un sachet plein de bonbons gélifiés de couleur jaune et blanche et en forme d’œuf au plat.",
+      "quantity": 0,
+      "price": 1.24,
+      "img": "../assets/images/eggs.jpg",
+      "buy": 0
+    },
+    {
+      "id": "5",
+      "name": "HAPPYFULL FRUITS",
+      "description": "Bonbons gélifiés en forme de fruits pour le plaisir des plus petits comme des plus grands.",
+      "quantity": 0,
+      "price": 1.24,
+      "img": "../assets/images/fruits.jpg",
+      "buy": 0
+    },
+    {
+      "id": "6",
+      "name": "HAPPYFULL CUBIES",
+      "description": "Une sélection de bonbons lego aux couleurs diverses dans un même sachet pour tous les âges et tous les goûts.",
+      "quantity": 0,
+      "price": 1.24,
+      "img": "../assets/images/cubes.jpg",
+      "buy": 0
+    },
+    {
+      "id": "7",
+      "name": "HAPPYFULL WORMS",
+      "description": "Des bonbons gélifiés bicolores en forme de Chenilles qui vous permettront de faire le plein de bonheur !",
+      "quantity": 0,
+      "price": 1.24,
+      "img": "../assets/images/worms.jpg",
+      "buy": 0
+    },
+    {
+      "id": "8",
+      "name": "HAPPYFULL SPIDER",
+      "description": "Bonbons gélifiés en forme d’araignées multicolores rassemblés dans un sachet de 70g et qui attendent simplement d’être dévorés sans modération.",
+      "quantity": 0,
+      "price": 1.24,
+      "img": "../assets/images/spiders.jpg",
+      "buy": 0
+    },
+    {
+      "id": "9",
+      "name": "HAPPYFULL RINGS",
+      "description": "Retrouvez le vrai délice avec ces savoureux bonbons gélifiés en forme d’anneaux.",
+      "quantity": 0,
+      "price": 1.24,
+      "img": "../assets/images/rings.jpg",
+      "buy": 0
+    }
+  ],
+  "panier": []
+}
