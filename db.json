@@ -60,7 +60,7 @@
       "description": "Des bonbons gélifiés bicolores en forme de Chenilles qui vous permettront de faire le plein de bonheur !",
       "quantity": 0,
       "price": 1.24,
-      "img": "../assets/images/worms.jpg",
+      "img": "worms.jpg",
       "buy": 0
     },
     {
